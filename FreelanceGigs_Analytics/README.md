@@ -1,5 +1,4 @@
 # 📊 FreelanceGig Analytics
-![Dashboard Preview](./FreelanceGig Analytics Dashboard Image.png)
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-blue?logo=tableau)
 ![Excel](https://img.shields.io/badge/Data%20Cleaning-Excel-green?logo=microsoft-excel)
