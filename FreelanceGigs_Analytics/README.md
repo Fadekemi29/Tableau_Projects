@@ -1,6 +1,6 @@
 # 📊 FreelanceGig Analytics
 
-![Dashboard Preview](./FreelanceGig_Dashboard.png)
+![Dashboard Preview](./FreelanceGigs_Analytics/FreelanceGig Analytics Dashboard Image.png)
 <!-- Replace the filename above with your actual PNG file name -->
 
 ---
