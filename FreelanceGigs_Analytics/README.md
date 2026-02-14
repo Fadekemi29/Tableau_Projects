@@ -1,7 +1,6 @@
 # 📊 FreelanceGig Analytics
 
-![Dashboard Preview](./FreelanceGigs_Analytics/FreelanceGig Analytics Dashboard Image.png)
-<!-- Replace the filename above with your actual PNG file name -->
+![Dashboard Preview](./FreelanceGigs_Analytics/FreelanceGig%20Analytics%20Dashboard%20Image.png)
 
 ---
 
@@ -131,7 +130,7 @@ Explore the full interactive Tableau dashboard here:
 
 ## 📄 License
 This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for full details.
+See the [LICENSE](FreelanceGigs_Analytics/LICENSE) file for full details.
 
 ---
 
