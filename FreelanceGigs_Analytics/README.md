@@ -1,7 +1,5 @@
 # 📊 FreelanceGig Analytics
 
-## 🏷️ Badges
-
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-blue?logo=tableau)
 ![Excel](https://img.shields.io/badge/Data%20Cleaning-Excel-green?logo=microsoft-excel)
 ![Project Type](https://img.shields.io/badge/Project-Data%20Analytics-purple)
