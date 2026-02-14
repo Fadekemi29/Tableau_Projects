@@ -1,9 +1,5 @@
 # 📊 FreelanceGig Analytics
 
-![Dashboard Preview](./FreelanceGigs_Analytics/FreelanceGig%20Analytics%20Dashboard%20Image.png)
-
----
-
 ## 🏷️ Badges
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-blue?logo=tableau)
