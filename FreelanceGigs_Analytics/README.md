@@ -124,7 +124,7 @@ Explore the full interactive Tableau dashboard here:
 
 ## 📄 License
 This project is licensed under the **MIT License**.  
-See the [LICENSE](FreelanceGigs_Analytics/LICENSE) file for full details.
+See the [LICENSE](./LICENSE) file for full details.
 
 ---
 
