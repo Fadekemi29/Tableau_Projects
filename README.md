@@ -1,5 +1,7 @@
 # Tableau_Projects
 
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/fadekemi.adefemi)
+
 
 Welcome to my Tableau Projects repository, a curated collection of interactive dashboards showcasing my skills in data analysis, visualization, and storytelling. Each project demonstrates my ability to transform raw data into clear, actionable insights using Tableau’s powerful analytical capabilities.
 
