@@ -1,4 +1,4 @@
-# 📊 FreelanceGig Analytics
+# FreelanceGig Analytics
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-blue?logo=tableau)
 ![Excel](https://img.shields.io/badge/Data%20Cleaning-Excel-green?logo=microsoft-excel)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 - [Project Overview](#-project-overview)
 - [Business Problem](#-business-problem)
 - [Project Objectives](#-project-objectives)
@@ -22,12 +22,12 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 **FreelanceGig Analytics** is a comprehensive Tableau project that explores trends, earnings, performance metrics, and client behaviour across major freelance platforms. The goal is to provide actionable insights for freelancers, clients, and policymakers navigating the rapidly expanding gig economy.
 
 ---
 
-## ❗ Business Problem
+## Business Problem
 The gig economy is growing, but clients often struggle to identify the most effective platforms for hiring qualified freelancers. Key challenges include:
 
 - Variations in freelancer performance across platforms  
@@ -39,7 +39,7 @@ This project addresses these gaps through data‑driven analysis and interactive
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - Analyse freelancer job trends across multiple platforms  
 - Assess earnings by job category and experience level  
 - Identify key success factors influencing platform performance  
@@ -47,7 +47,7 @@ This project addresses these gaps through data‑driven analysis and interactive
 
 ---
 
-## 🔄 Methodology
+## Methodology
 
 ### **Data Processing Workflow**
 1. **Data Importation** – Load datasets into Tableau  
@@ -58,28 +58,28 @@ This project addresses these gaps through data‑driven analysis and interactive
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
-### 💰 Earnings Analysis
+### Earnings Analysis
 - **Highest‑earning category:** App Development — *$5,201 average*  
 - **Lowest‑earning category:** SEO — *$4,677 average*  
 
-### 🧠 Experience Level Impact
+### Experience Level Impact
 - **Intermediate freelancers** earn *$2+ more per hour* than experts  
 - **Beginners** earn the lowest hourly rates  
 
-### ⏱️ Hourly Rate by Platform
+### Hourly Rate by Platform
 - **PeoplePerHour** has the highest average hourly rate  
 - **Toptal** has the lowest hourly rate  
 
-### 🏆 Platform‑Specific Insights
+### Platform‑Specific Insights
 - **Client Ratings:** Freelancer (4.02) and Upwork (4.0) lead  
 - **Success Rates:** All platforms maintain *74%+* success rates  
 - **Rehire Patterns:** Toptal leads despite lower ratings — likely due to affordability  
 
 ---
 
-## 📝 Summary
+## Summary
 This analysis evaluates freelancer performance across major gig platforms to uncover patterns in earnings, ratings, and rehire behaviour.  
 Key insights include:
 
@@ -90,7 +90,7 @@ Key insights include:
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 ### ✔ For Freelancers
 - Target high‑earning categories like **App Development** and **Graphic Design**  
@@ -110,15 +110,14 @@ Key insights include:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Data Cleaning:** Microsoft Excel  
 - **Data Visualisation:** Tableau  
 
 ---
 
-## 🌐 Interactive Dashboard
-Explore the full interactive Tableau dashboard here:  
-🔗 **https://public.tableau.com/app/profile/fadekemi.adefemi/viz/FreelanceGigAnalyticsDashboard/OverviewFreelanceGigAnalyticsDashboard**
+## Interactive Dashboard
+Explore the full interactive Tableau dashboard here:  **[View Dashboard](https://public.tableau.com/app/profile/fadekemi.adefemi/viz/FreelanceGigAnalyticsDashboard/OverviewFreelanceGigAnalyticsDashboard)**
 
 ---
 
